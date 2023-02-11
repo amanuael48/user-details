@@ -3,12 +3,40 @@
   'age':25,
 'username':'amanuael@mesurment.com',
   'password':'gussMyPassword@80',
-  
-  
-
-
-
-
-
-
+}
+{
+  'name':'tesganesh Mebratu',
+  'age':45,
+'username':'tesganesh@mesurment.com',
+  'password':'gussMyPassword@20',
+}
+{
+  'name':'Maru Gobena',
+  'age':55,
+'username':'maru@mesurment.com',
+  'password':'gussMyPassword@10',
+}
+{
+  'name':'Betelhem Maru',
+  'age':18,
+'username':'betelhem@mesurment.com',
+  'password':'gussMyPassword@50',
+}
+{
+  'name':'Natnael Maru',
+  'age':22,
+'username':'natnael@mesurment.com',
+  'password':'gussMyPassword@90',
+}
+{
+  'name':'Selamawit Maru',
+  'age':27,
+'username':'selamawit@mesurment.com',
+  'password':'gussMyPassword@70',
+}
+{
+  'name':'kenean Maru',
+  'age':26,
+'username':'kenean@mesurment.com',
+  'password':'gussMyPassword@60',
 }
